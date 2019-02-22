@@ -1,2 +1,2 @@
 # style_transfer_tensorflow
-Implementation of Leon Gatys and al using TensorFlow
+TensorFlow implementation of the style transfer neural algorithm described in Leon Gatys paper 
